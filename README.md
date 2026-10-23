@@ -52,7 +52,11 @@ building: Target Ops, a console for Docker and Kubernetes automations
 ## Demo
 
 [VIDEO_URL_HERE
-](https://github.com/smessaoui31/smessaoui31/blob/main/assets/target-ops-v1.mp4)
+]
+
+https://github.com/user-attachments/assets/2f1843a4-cd1b-4d17-8d9c-23587d5e5ebf
+
+
 <p align="center"><sub><a href="https://github.com/smessaoui31/target-ops">Target Ops</a> - a 45-second walkthrough of the console</sub></p>
 
 ## Stack
