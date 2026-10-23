@@ -51,9 +51,6 @@ building: Target Ops, a console for Docker and Kubernetes automations
 
 ## Demo
 
-[VIDEO_URL_HERE
-]
-
 https://github.com/user-attachments/assets/2f1843a4-cd1b-4d17-8d9c-23587d5e5ebf
 
 
