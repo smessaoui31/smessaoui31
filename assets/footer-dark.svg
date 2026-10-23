@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" role="img" aria-labelledby="t">
+  <title id="t">exit - thanks for stopping by</title>
+  <line x1="40" y1="12" x2="1160" y2="12" stroke="#30363d"/>
+  <text x="600.0" y="44" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8b949e"><tspan fill="#3fb950">$</tspan> exit <tspan fill="#30363d">  //  </tspan>thanks for stopping by</text>
+</svg>
